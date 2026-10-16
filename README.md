@@ -29,6 +29,7 @@ proyecto-bd1-equipo_43/
 │   ├──📁 etapa-03/<br>
 │   │  ├──💻[Script DDL](sql/ddl/crear_bd.sql)<br>
 │   │  ├──💻[Script DML](sql/dml/datos_prueba.sql) <br>
+<!--
 │   ├──📁 etapa-04/<br>
 │   │  ├──💻 Factura/Comprobante<br>
 │   │  ├──💻 Reporte Agregado<br>
@@ -38,4 +39,5 @@ proyecto-bd1-equipo_43/
 │   │  ├──💻Script SQL de implementación<br>
 │   │  ├──💻Script SQL o resumen explicativo<br>
 │   │  ├──Temas técnicos<br>
+-->
 └── README.md
