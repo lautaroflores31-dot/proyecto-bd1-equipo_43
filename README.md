@@ -38,6 +38,5 @@ proyecto-bd1-equipo_43/
 │   │  ├──💻 Descripción breve<br>
 │   │  ├──💻Script SQL de implementación<br>
 │   │  ├──💻Script SQL o resumen explicativo<br>
-│   │  ├──Temas técnicos<br>
--->
+│   │  ├──Temas técnicos<br> -->
 └── README.md
