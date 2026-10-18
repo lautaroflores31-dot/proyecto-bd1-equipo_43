@@ -1,4 +1,7 @@
 
+![Logo UNNE](https://imgs.search.brave.com/sG0-WEzxWBRO2QOARq-FJHeO22yKg2K-Y2oR60UFiYE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby5l/cy93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wMi9sb2dvLXZl/Y3Rvci11bm5lLWNl/bnRyYWRvLmpwZw) 
+
+
 # Base Datos 1 Gr.43
 Proyecto  Final de Base de Datos 1 Comision3 Gr.43.
 
@@ -13,8 +16,6 @@ Proyecto  Final de Base de Datos 1 Comision3 Gr.43.
 |       RAMIREZ JOSE EMILIANO       | RamirezJoseEmiliano |
 |          ROMANI VALENTINO         | valrom12 |
 |  VALLEJOS AQUINO NATANIEL ADRIEL  | NataVAllejos12 |
-
-![Logo UNNE](https://imgs.search.brave.com/sG0-WEzxWBRO2QOARq-FJHeO22yKg2K-Y2oR60UFiYE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby5l/cy93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wMi9sb2dvLXZl/Y3Rvci11bm5lLWNl/bnRyYWRvLmpwZw)   
 
 ## Presentacion 
 Este proyecto Farmacia es un Sistema que esta diseño para facilitar la gestión y supervisión de ventas de medicamentos o productos de una farmacia
