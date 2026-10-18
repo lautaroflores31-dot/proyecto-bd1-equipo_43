@@ -14,6 +14,8 @@ Proyecto  Final de Base de Datos 1 Comision3 Gr.43.
 |          ROMANI VALENTINO         | valrom12 |
 |  VALLEJOS AQUINO NATANIEL ADRIEL  | NataVAllejos12 |
 
+![Logo UNNE](https://www.unne.edu.ar/wp-content/uploads/Logo-UNNE-Angosto.png)   
+
 ## Presentacion 
 Este proyecto Farmacia es un Sistema que esta diseño para facilitar la gestión y supervisión de ventas de medicamentos o productos de una farmacia
 
